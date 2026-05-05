@@ -1,6 +1,6 @@
 # LeetCode History
 
-Tracking my LeetCode solutions and commit activity.
+Tracking my LeetCode solutions and GitHub commit activity.
 
 ## GitHub Contribution Graph
 
