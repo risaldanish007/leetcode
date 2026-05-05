@@ -1,7 +1,7 @@
 # LeetCode History
 
-A collection of my LeetCode solutions and daily problem-solving progress.
+Tracking my LeetCode solutions and commit activity.
 
-## Submission Heatmap
+## GitHub Contribution Graph
 
-<img src="https://leetcode-heatmap.vercel.app/heatmap?user=risaldanish007" alt="LeetCode Heatmap" />
+[![Risal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=risaldanish007&theme=github-compact)](https://github.com/risaldanish007)
