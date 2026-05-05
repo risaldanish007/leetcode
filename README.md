@@ -1,7 +1,7 @@
 # LeetCode History
 
-Tracking my LeetCode solutions and daily GitHub contributions.
+## My LeetCode Progress
 
-## Contribution Heatmap
+![LeetCode Stats](https://leetcard.jacoblin.cool/risaldanish007?theme=dark&font=Karma&ext=heatmap)
 
-<img src="https://ghchart.rshah.org/risaldanish007" alt="Risal's Github chart" />
+---
