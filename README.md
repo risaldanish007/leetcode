@@ -1,5 +1,7 @@
 # LeetCode History
 
+A collection of my LeetCode solutions and daily problem-solving progress.
+
 ## Submission Heatmap
 
-![LeetCode Heatmap](https://leetcode-stats-six.vercel.app/api?username=risaldanish007&theme=dark&type=heatmap)
+<img src="https://leetcode-heatmap.vercel.app/heatmap?user=risaldanish007" alt="LeetCode Heatmap" />
