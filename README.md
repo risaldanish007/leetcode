@@ -1,7 +1,5 @@
 # LeetCode History
 
-Tracking my LeetCode progress and daily problem solving.
+## Submission Heatmap
 
-## Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/risaldanish007?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Heatmap](https://leetcode-stats-six.vercel.app/api?username=risaldanish007&theme=dark&type=heatmap)
