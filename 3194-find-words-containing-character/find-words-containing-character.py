@@ -1,10 +1,9 @@
 class Solution(object):
     def findWordsContaining(self, words, x):
-        countArr = []
-        
-        for i,word in enumerate(words):
-            for char in word:
-                if x == char:
-                    countArr.append(i)
-                    break
-        return countArr
+        ans = []
+        for i in range(len(words)):
+            if x in words[i]:
+                ans.append(i)
+
+        return ans
+
