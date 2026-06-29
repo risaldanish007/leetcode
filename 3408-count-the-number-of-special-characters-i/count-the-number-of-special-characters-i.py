@@ -16,4 +16,5 @@ class Solution(object):
                     if word[i].lower() not in counted:
                         result += 1
                         counted.add(word[i].lower())
+                        break
         return result
