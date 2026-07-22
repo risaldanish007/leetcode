@@ -1,9 +1,16 @@
-import math
 from collections import Counter
 class Solution(object):
     def majorityElement(self, nums):
-        count = len(nums)//2
-        freq = Counter(nums)
-        for i,j in freq.items():
-            if j > count:
-                return i
+        count = 0
+        current = None
+        
+        for num in nums:
+            if count == 0:
+                current = num
+            
+            if num == current:
+                count+=1
+            else:
+                count-=1
+        
+        return current
